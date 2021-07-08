@@ -15,9 +15,9 @@ function comenzarJuego() {
 }
 
 function reiniciarEstado() {
-  let secuenciaMaquina = [];
-  let secuenciaUsuario = [];
-  let ronda = 0;
+  secuenciaMaquina = [];
+  secuenciaUsuario = [];
+  ronda = 0;
 }
 
 function obtenerCuadroAleatorio() {
